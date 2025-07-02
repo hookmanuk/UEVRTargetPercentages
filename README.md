@@ -12,4 +12,4 @@ When you go to the Script UI tab, you can see all view targets you have set a pe
 
 ## Installation
 
-Copy the lua script into the scripts folder of your UEVR game before injecting.
+Copy the screenpercentagetargets.lua script into the scripts folder of your UEVR game before injecting.
